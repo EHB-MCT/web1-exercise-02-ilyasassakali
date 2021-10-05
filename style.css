@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(233, 234, 234);
+    margin: 20px 50px 20px 50px;
+}
+
+h1 {
+    color: rgb(247, 88, 88);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.grijs {
+    color: gray;
+}
+
+h2 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p {
+    color: gray;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #fd5a58;
+    padding: 10px;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+}
+a:hover{
+    color:gray;
+
+}
